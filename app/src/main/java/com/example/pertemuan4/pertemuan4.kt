@@ -67,7 +67,7 @@ fun ActPertama(modifier: Modifier){
                     )
                     Text(
                         stringResource(R.string.alamat),
-                        fontSize =
+                        fontSize = 20.sp
                     )
                 }
             }
