@@ -39,7 +39,7 @@ fun ActPertama(modifier: Modifier){
         )
         Text(
             stringResource(R.string.univ),
-            fontSize = 22.sp
+            fontSize = 20.sp
         )
         Spacer(modifier = Modifier.height(25.dp))
         Card(
