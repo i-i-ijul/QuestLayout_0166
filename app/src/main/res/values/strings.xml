@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">pertemuan4</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarya</string>
+    <string name="nama">Sigid Mahdi</string>
+    <string name="alamat">Palu, Makassar Selatan</string>
+    <string name="copy">Copyright, 2026</string>
+
 </resources>
