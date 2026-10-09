@@ -67,7 +67,9 @@ fun ActPertama(modifier: Modifier){
                     )
                     Text(
                         stringResource(R.string.alamat),
-                        fontSize = 20.sp
+                        fontSize = 20.sp,
+                        color = Color.Yellow,
+                        modifier = Modifier.padding(top = 10.dp)
                     )
                 }
             }
