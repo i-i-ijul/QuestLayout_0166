@@ -34,7 +34,7 @@ fun ActPertama(modifier: Modifier){
     ) {
         Text(
             stringResource(R.string.prodi),
-            fontSize = 35.sp,
+            fontSize =30.sp,
             fontWeight = FontWeight.Bold
         )
         Text(
