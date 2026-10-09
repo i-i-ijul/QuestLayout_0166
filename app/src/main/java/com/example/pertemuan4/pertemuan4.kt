@@ -45,7 +45,7 @@ fun ActPertama(modifier: Modifier){
         Card(
             modifier = Modifier
                 .fillMaxWidth(1f)
-                .padding(12.dp),
+                .padding(10.dp),
             colors = CardDefaults.cardColors(
                 containerColor = Color.DarkGray
             )
